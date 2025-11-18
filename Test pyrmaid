@@ -1,0 +1,17 @@
+TEST PYRAMID:
+The s a concept in software testing that emphasizes the importance of having a solid foundation of unit tests, followed by integration tests, and finally, end-to-end (E2E) tests. 
+The pyramid shape represents the ideal distribution of tests:
+
+1. Unit Tests (base): fast, cheap, and numerous
+2. Integration Tests (middle): slower, more complex, and fewer
+3. E2E Tests (top): slowest, most complex, and fewest
+
+The Test Pyramid is important is:
+1.Reduces Testing Time: more unit tests mean faster feedback and shorter testing cycles
+2. Improves Code Quality: catching bugs early, at the unit level, prevents downstream problems
+3.Increases Confidence: a solid test foundation gives developers confidence to make changes and refactor code.
+4. Faster feedback: The large number of fast unit tests provides immediate feedback to developers,
+5. Cost-effective: Finding and fixing bugs at the unit level is significantly cheaper than fixing them in later, morecomplex testing stages.
+6. More reliable: The pyramid creates a strong foundation of reliable unit tests, leading to more stable integrationand end-to-end tests.
+7.Efficient test automation:By balancing test types, teams can build an efficient and maintainable automated test suite that provides good test coverage without being a burden.
+
