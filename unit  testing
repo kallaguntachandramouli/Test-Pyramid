@@ -1,0 +1,11 @@
+The Unit Test layer is easier to test and enables earlier bug detection. 
+
+1.Faster Feedback: unit tests are typically fast, providing quick feedback to developers
+2. Isolated Testing: unit tests focus on small, isolated pieces of code, making it easier to identify issues
+3.Lower Complexity: unit tests are simpler and less prone to flaky failures
+4. Early Detection: catching bugs at the unit level prevents them from propagating to higher levels of the application
+
+focusing on unit tests, developers can:
+1. Write Better Code: test-driven development (TDD) encourages good design and coding practices
+2. Catch Bugs Early: identify and fix issues quickly, reducing debugging time and costs
+3. Improve Overall Quality: a solid foundation of unit tests sets the stage for higher-quality software
