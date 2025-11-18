@@ -1,0 +1,18 @@
+Agile Testing Quadrants are a practical tool for sorting testing types into four categories. 
+Quadrant 1: Technology Facing
+ This quadrant is all about supporting the team from a technological angle.
+It centers on testing the code through unit tests and component tests.
+Quadrant 2: Business Facing
+ the focus shifts to supporting the team from a business perspective.
+Testing activities revolve around business rules, employing functional tests, examples, story tests,prototypes, and simulations.
+Quadrant 3: Supporting the Team
+ introduces techniques that assist the team in critiquing the product by approaching itfrom a business perspective.
+It includes exploratory testing, scenarios, usability testing, user acceptance testing, and alpha andbeta testing.
+Quadrant 4: Critique Product
+The fourth quadrant dives deep into scrutinizing the product from a technological perspective.
+It recommends using performance testing, load testing, security testing, and various “ility” testing types such as accessibility, reliability, and portability.
+Manual testing is best suited for Q3: Business Facing, Critiquing the Product.
+This quadrant focuses on exploratory testing, usability testing, and other activities that require human intuition and creativity. 
+Manual testing is ideal for:
+1.Exploratory Testing: discovering issues and edge cases that automated tests might miss.
+2. Usability Testing: evaluating the user experience and identifying usability issues.
